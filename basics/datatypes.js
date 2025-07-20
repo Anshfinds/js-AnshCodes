@@ -12,3 +12,10 @@ let age = 18
 let isloggedin = false
 
 console.log(typeof age)
+
+let str1 = "ansh"
+let str2 = "jha"
+
+let str3 = str1+ str2
+
+console.log(str3)
